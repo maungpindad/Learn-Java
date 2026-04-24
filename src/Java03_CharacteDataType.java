@@ -1,7 +1,8 @@
-public class Java03_CharactedDataType {
+public class Java03_CharacteDataType {
 
     public static void main(String[] args) {
         // Declare and initialize a char variable
+
         char charValue = 'A'; // A single character enclosed in single quotes
 
         // Unicode character
